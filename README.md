@@ -18,9 +18,7 @@ https://scleriot.github.io/web-dawin/project/alternants.html
 
     $ npm run prod
 
-puis ouvrir dans un navigateur l'URL 
-
-    localhost:3000
+puis ouvrir dans un navigateur l'URL [localhost:3000]
     
 ## OU
 
@@ -31,7 +29,10 @@ puis ouvrir dans un navigateur l'URL
   $ npm run server
   ```
 
-- dans un deuxème terminal
+- dans un deuxième terminal
   ```
   $ npm run start
   ```
+
+
+*LP Dawin Bordeaux*
