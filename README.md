@@ -18,7 +18,7 @@ https://scleriot.github.io/web-dawin/project/alternants.html
 
     $ npm run prod
 
-puis ouvrir dans un navigateur l'URL [localhost:3000]
+puis ouvrir dans un navigateur l'URL [localhost:3000](localhost:3000)
     
 ## OU
 
