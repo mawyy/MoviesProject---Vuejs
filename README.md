@@ -10,12 +10,12 @@ https://scleriot.github.io/web-dawin/project/alternants.html
 
 ## Configuration et démarrage
 
-# 1) Exécuter 
+### 1) Exécuter 
     $ npm run prod
     
 ## OU
 
-# 2) Executer
+### 2) Executer
 
     $ npm install
     
