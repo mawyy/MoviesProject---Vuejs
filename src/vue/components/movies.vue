@@ -47,7 +47,7 @@ export default {
         if (attribute === "Année") {
           return m.year == search;
         }
-        if (attribute === "Directeur") {
+        if (attribute === "Réalisateur") {
           return m.director.name.toLowerCase().includes(search);
         }
         if (attribute === "Genre") {
@@ -63,7 +63,7 @@ export default {
         value: "",
       },
       movies: [],
-      items: ["Titre", "Année", "Directeur", "Genre"],
+      items: ["Titre", "Année", "Réalisateur", "Genre"],
     }
   },
   created(){
