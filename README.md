@@ -8,22 +8,21 @@ Catalogue de films réalisé en Node.js et Vue.js
 
 https://scleriot.github.io/web-dawin/project/alternants.html
 
-## Configuration et démarrage
-
-### 1) Exécuter 
-    $ npm run prod
-   
-puis lancer
-
-    localhost:3000
-
-## OU
-
-### 2) Exécuter
+## Installation
 
     $ npm install
     
- puis 
+## Configuration et démarrage
+
+### En mode production 
+
+    $ npm run prod
+
+puis ouvrir dans un navigateur l'URL localhost:3000
+
+## OU
+
+### En mode développeur
 
 - dans un premier terminal
   ```
