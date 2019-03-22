@@ -12,10 +12,14 @@ https://scleriot.github.io/web-dawin/project/alternants.html
 
 ### 1) Exécuter 
     $ npm run prod
-    
+   
+puis lancer
+
+    localhost:3000
+
 ## OU
 
-### 2) Executer
+### 2) Exécuter
 
     $ npm install
     
